@@ -1623,7 +1623,8 @@ const GLOSSARIO = [
         "link": "https://it.ign.com/forum/threads/pc-ps5-xbx-s-assassins-creed-shadows-20-marzo-2025.15995/page-29"
       },
       {
-        "testo": "(v. rifl.): «Leggere che Luigi non si controlla con il tasto B mi triggera abbastanza…» (utente “nuggets619” 2024)."
+        "testo": "(v. rifl.): «Leggere che Luigi non si controlla con il tasto B mi triggera abbastanza…» (utente “nuggets619” 2024).",
+        "link": "https://www.ludomedia.it/nuggets619-32142?v=5676027"
       }
     ],
     "raw": [
