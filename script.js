@@ -58,12 +58,58 @@ function filteredEntries() {
   });
 }
 
+function splitDefinitionSenses(entry) {
+  const parts = String(entry.definizione)
+    .split(/;\s+(?=\d+\.)|(?<=’)\s+(?=\d+\.)/g)
+    .map(part => part.trim())
+    .filter(Boolean);
+
+  return parts.map((part, index) => {
+    if (index === 0) {
+      return {
+        meta: entry.marca,
+        definition: part
+      };
+    }
+
+    const quoteIndex = part.indexOf('‘');
+
+    if (quoteIndex === -1) {
+      return {
+        meta: '',
+        definition: part
+      };
+    }
+
+    return {
+      meta: part.slice(0, quoteIndex).trim(),
+      definition: part.slice(quoteIndex).trim()
+    };
+  });
+}
+
+function renderDefinitions(entry) {
+  return `
+    <div class="senses">
+      ${splitDefinitionSenses(entry).map(sense => `
+        <div class="sense">
+          ${sense.meta ? `<p class="meta">${escapeHtml(sense.meta)}</p>` : ''}
+          <p class="definition">${escapeHtml(sense.definition)}</p>
+        </div>
+      `).join('')}
+    </div>
+  `;
+}
+
 function renderLinkedSource(line, link) {
   if (!link) return escapeHtml(line);
+
   const match = line.match(/^(.*)\(([^()]*(?:\d{4}|s\.d\.|s\. d\.)[^()]*)\)([.\s]*)$/);
+
   if (!match) {
     return `${escapeHtml(line)} <a class="source-link" href="${escapeHtml(link)}" target="_blank" rel="noopener noreferrer">↗ fonte</a>`;
   }
+
   return `${escapeHtml(match[1])}(<a class="source-link" href="${escapeHtml(link)}" target="_blank" rel="noopener noreferrer">${escapeHtml(match[2])}</a>)${escapeHtml(match[3])}`;
 }
 
@@ -71,7 +117,11 @@ function renderExample(example) {
   const line = exampleText(example);
   const link = typeof example === 'object' ? example.link : '';
   const match = line.match(/^([^:]+):\s*(.*)$/);
-  if (!match) return `<p class="example">${renderLinkedSource(line, link)}</p>`;
+
+  if (!match) {
+    return `<p class="example">${renderLinkedSource(line, link)}</p>`;
+  }
+
   return `<p class="example"><strong>${escapeHtml(match[1])}:</strong> ${renderLinkedSource(match[2], link)}</p>`;
 }
 
@@ -79,6 +129,7 @@ function renderEntry(entry) {
   const variants = entry.varianti.length ? `<span class="variants">o ${escapeHtml(entry.varianti.join(', '))}</span>` : '';
   const genre = entry.genere ? '<span class="genre">(g)</span>' : '';
   const reference = entry.riferimento ? `<p class="reference">${escapeHtml(entry.riferimento)}</p>` : '';
+
   return `
     <article class="entry" id="${encodeURIComponent(entry.lemma)}">
       <header class="entry__top">
@@ -87,20 +138,28 @@ function renderEntry(entry) {
         ${genre}
         <span class="etimo">[${escapeHtml(entry.etimo)}]</span>
       </header>
-      <p class="meta">${escapeHtml(entry.marca)}</p>
-      <p class="definition">${escapeHtml(entry.definizione)}</p>
+
+      ${renderDefinitions(entry)}
+
       ${reference}
-      <div class="examples">${entry.esempi.map(renderExample).join('')}</div>
+
+      <div class="examples">
+        ${entry.esempi.map(renderExample).join('')}
+      </div>
     </article>`;
 }
 
 function render() {
   const entries = filteredEntries();
+
   countEl.textContent = entries.length;
+
   glossaryEl.innerHTML = entries.length
     ? entries.map(renderEntry).join('')
     : '<div class="empty">Nessuna voce trovata con i filtri attuali.</div>';
+
   filterBtns.forEach(btn => btn.classList.toggle('active', btn.dataset.filter === state.filter));
+
   buildAlphabet();
 }
 
@@ -117,6 +176,7 @@ filterBtns.forEach(btn => btn.addEventListener('click', () => {
 alphabetEl.addEventListener('click', event => {
   const btn = event.target.closest('.letter');
   if (!btn) return;
+
   state.letter = btn.dataset.letter;
   render();
 });
