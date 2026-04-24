@@ -548,7 +548,7 @@ const GLOSSARIO = [
     "riferimento": "→ The Elder Scrolls V – Skyrim (Bethesda Softworks, 2011).",
     "esempi": [
       {
-        "testo": "(agg.): «L’idea base [...] era quella di creare qualcosa basato principalmente sui combattimenti, cioè una vera e propria arena con qualche elemento GDR (utente “Ronin” 2020)».",
+        "testo": "(agg.): «L’idea base [...] era quella di creare qualcosa basato principalmente sui combattimenti, cioè una vera e propria arena con qualche elemento GDR» (utente “Ronin” 2020).",
         "link": "https://www.games-galaxy.it/2020/07/the-elder-scrolls-saga-la-storia-prima-parte/"
       },
       {
@@ -556,7 +556,7 @@ const GLOSSARIO = [
         "link": "https://www.tomshw.it/videogioco/skyrim-una-mod-ironica-e-gia-tra-le-preferite-dei-giocatori"
       },
       {
-        "testo": "(GdR): «A differenza di altri GdR, però, è stata aggiunta una speciale opzione che, se usata, farà automaticamente accettare la missione proposta, saltando tutta la parte di botta e risposta (Kingdoms of Amalur: Reckoning 2011, p.29)».",
+        "testo": "(GdR): «A differenza di altri GdR, però, è stata aggiunta una speciale opzione che, se usata, farà automaticamente accettare la missione proposta, saltando tutta la parte di botta e risposta» (Kingdoms of Amalur: Reckoning 2011, p.29).",
         "link": "https://archive.org/details/GMC_185_2011_09/page/n28/mode/1up"
       },
       {
@@ -567,9 +567,9 @@ const GLOSSARIO = [
     "raw": [
       "GDR, o GdR, gdr (g) [calco str. dell’ingl. RPG] agg. e s.m. ‘(acronimo per) Gioco di Ruolo, videogioco la cui esperienza centrale è costituita dalla componente narrativa, dallo sviluppo dei personaggi e dalla personalizzazione e caratterizzazione degli stessi’.",
       "→ The Elder Scrolls V – Skyrim (Bethesda Softworks, 2011).",
-      "(agg.): «L’idea base [...] era quella di creare qualcosa basato principalmente sui combattimenti, cioè una vera e propria arena con qualche elemento GDR (utente “Ronin” 2020)».",
+      "(agg.): «L’idea base [...] era quella di creare qualcosa basato principalmente sui combattimenti, cioè una vera e propria arena con qualche elemento GDR» (utente “Ronin” 2020).",
       "(s.m.): «Quando The Elder Scrolls V Skyrim uscì per la prima volta ormai oltre dieci anni fa, in molti sapevano che il GDR di Bethesda sarebbe rimasto a lungo tempo nella memoria degli appassionati» (Saitto 2022).",
-      "(GdR): «A differenza di altri GdR, però, è stata aggiunta una speciale opzione che, se usata, farà automaticamente accettare la missione proposta, saltando tutta la parte di botta e risposta (Kingdoms of Amalur: Reckoning 2011, p.29)».",
+      "(GdR): «A differenza di altri GdR, però, è stata aggiunta una speciale opzione che, se usata, farà automaticamente accettare la missione proposta, saltando tutta la parte di botta e risposta» (Kingdoms of Amalur: Reckoning 2011, p.29).",
       "(gdr): «Ed ecco che la Bethesda, grazie a questa nuova possibilità, scocca una freccia dritta al petto della già zoppa componente gdr di Skyrim.» (utente “Celestius” 2013)."
     ]
   },
