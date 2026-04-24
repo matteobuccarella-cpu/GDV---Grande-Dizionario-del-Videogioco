@@ -209,7 +209,8 @@ const GLOSSARIO = [
         "link": "https://www.powned.it/call-of-duty-news/modern-warfare-realistico-o-arcade-i-giocatori-non-hanno-dubbi-sul-come-dovra-essere-il-nuovo-cod/"
       },
       {
-        "testo": "(s.m.): «Ridge Racer 6, così come i suoi predecessori, è un arcade puro, soprattutto per quanto riguarda il modello di guida.» (Balistrieri 2006)."
+        "testo": "(s.m.): «Ridge Racer 6, così come i suoi predecessori, è un arcade puro, soprattutto per quanto riguarda il modello di guida.» (Balistrieri 2006).",
+        "link": "https://www.everyeye.it/articoli/recensione-ridge-racer-6-3769.html/"  
       }
     ],
     "raw": [
