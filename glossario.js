@@ -444,8 +444,12 @@ const GLOSSARIO = [
     ]
   },
   {
-    "lemma": "eSport o E-Sport, e-sport, esport",
-    "varianti": [],
+    "lemma": "eSport",
+    "varianti": [
+      "e-sport",
+      "esport",
+      "E-Sport"
+    ],
     "genere": false,
     "etimo": "prest. ingl. ’sport elettronico'",
     "marca": "s.m. e agg.",
