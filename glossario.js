@@ -53,41 +53,7 @@ const GLOSSARIO = [
       "(2v2): «Call of Duty: Modern Warfare presenta la nuova modalità 2v2 Gunfight» (Sirio 2019)."
     ]
   },
-  {
-    "lemma": "Adventure",
-    "varianti": [
-      "adventure game",
-    ],
-    "genere": true,
-    "etimo": "dalla loc. ingl. adventure (game), ‘(gioco di) avventura’",
-    "marca": "agg. e s.m. (rar. s.f.)",
-    "definizione": "‘(detto di) videogioco caratterizzato da una marcata componente esplorativa, che rappresenta il motivo principale dell’esperienza di gioco, affiancata spesso da una voce narrante che guida il giocatore nelle ambientazioni in cui si sviluppa il gioco’.",
-    "riferimento": "→ The Legend of Zelda, Breath of the Wild (Nintendo, 2017).",
-    "esempi": [
-      {
-        "testo": "(adventure game): «L’interattività del videogame è assicurata da due modi di gioco: acrobatico e frenetico (modello sala giochi) e più impegnativo e strategico (“adventure game”).» (Arriva il videogioco che parla cinque lingue 1993, p.13) .",
-        "link": "https://archivio.corriere.it/Archivio/interface/view_preview.shtml#!/NTovZXMvaXQvcmNzZGF0aS9AMTQwMDkz"
-      },
-      {
-        "testo": "(agg.): «Le mura virtuali di un gioco adventure sono anch’esse piene di informazioni, in gran parte indizi sul passato, storie, segreti, mappe del tesoro e cose simili» (Herz 1998, p. 155)."
-      },
-      {
-        "testo": "(s.m.): «Gli adventure continuano a mietere successi» (Ascione 1999, p. 62)."
-      },
-      {
-        "testo": "(s.f.): «Si tratta di una disastrosa adventure in tre parti» (Carlà 1996, p. 56)."
-      }
-    ],
-    "raw": [
-      "Adventure (g) [dalla loc. ingl. adventure (game), ‘(gioco di) avventura’] agg. e s.m. (rar. s.f.) ‘(detto di) videogioco caratterizzato da una marcata componente esplorativa, che rappresenta il motivo principale dell’esperienza di gioco, affiancata spesso da una voce narrante che guida il giocatore nelle ambientazioni in cui si sviluppa il gioco’.",
-      "→ The Legend of Zelda, Breath of the Wild (Nintendo, 2017).",
-      "(adventure game): «L’interattività del videogame è assicurata da due modi di gioco: acrobatico e frenetico (modello sala giochi) e più impegnativo e strategico (“adventure game”).» (Arriva il videogioco che parla cinque lingue 1993, p.13) .",
-      "(agg.): «Le mura virtuali di un gioco adventure sono anch’esse piene di informazioni, in gran parte indizi sul passato, storie, segreti, mappe del tesoro e cose simili» (Herz 1998, p. 155).",
-      "(s.m.): «Gli adventure continuano a mietere successi» (Ascione 1999, p. 62).",
-      "(s.f.): «Si tratta di una disastrosa adventure in tre parti» (Carlà 1996, p. 56)."
-    ]
-  },
-  {
+    {
     "lemma": "Action",
     "varianti": [],
     "genere": true,
@@ -115,6 +81,38 @@ const GLOSSARIO = [
       "(action game): «il risultato è un action game di grande spettacolarità ma che di horror ha ben poco da offrire aldilà delle ambientazioni gotiche. Devil May Cry è il gioco della svolta su PlayStation 2» (Devil May Cry 2001).",
       "(agg.): «Dungeon Siege è un gioco Action costruito su una base RPG, ma rimane prevalentemente con una impostazione d'azione massiccia.» (Nei Dungeon Microsoft! 2002).",
       "(s.m.): «La scusante del non essere propriamente un action può valere per qualche piccolo aspetto, ma non stiamo forse esagerando?» (Project Eden - Recensione 2002)."
+    ]
+  },
+  {
+    "lemma": "Adventure",
+    "varianti": [],
+    "genere": true,
+    "etimo": "dalla loc. ingl. adventure (game), ‘(gioco di) avventura’",
+    "marca": "agg. e s.m. (rar. s.f.)",
+    "definizione": "‘(detto di) videogioco caratterizzato da una marcata componente esplorativa, che rappresenta il motivo principale dell’esperienza di gioco, affiancata spesso da una voce narrante che guida il giocatore nelle ambientazioni in cui si sviluppa il gioco’.",
+    "riferimento": "→ The Legend of Zelda, Breath of the Wild (Nintendo, 2017).",
+    "esempi": [
+      {
+        "testo": "(adventure game): «L’interattività del videogame è assicurata da due modi di gioco: acrobatico e frenetico (modello sala giochi) e più impegnativo e strategico (“adventure game”).» (Arriva il videogioco che parla cinque lingue 1993, p.13) .",
+        "link": "https://archivio.corriere.it/Archivio/interface/view_preview.shtml#!/NTovZXMvaXQvcmNzZGF0aS9AMTQwMDkz"
+      },
+      {
+        "testo": "(agg.): «Le mura virtuali di un gioco adventure sono anch’esse piene di informazioni, in gran parte indizi sul passato, storie, segreti, mappe del tesoro e cose simili» (Herz 1998, p. 155)."
+      },
+      {
+        "testo": "(s.m.): «Gli adventure continuano a mietere successi» (Ascione 1999, p. 62)."
+      },
+      {
+        "testo": "(s.f.): «Si tratta di una disastrosa adventure in tre parti» (Carlà 1996, p. 56)."
+      }
+    ],
+    "raw": [
+      "Adventure (g) [dalla loc. ingl. adventure (game), ‘(gioco di) avventura’] agg. e s.m. (rar. s.f.) ‘(detto di) videogioco caratterizzato da una marcata componente esplorativa, che rappresenta il motivo principale dell’esperienza di gioco, affiancata spesso da una voce narrante che guida il giocatore nelle ambientazioni in cui si sviluppa il gioco’.",
+      "→ The Legend of Zelda, Breath of the Wild (Nintendo, 2017).",
+      "(adventure game): «L’interattività del videogame è assicurata da due modi di gioco: acrobatico e frenetico (modello sala giochi) e più impegnativo e strategico (“adventure game”).» (Arriva il videogioco che parla cinque lingue 1993, p.13) .",
+      "(agg.): «Le mura virtuali di un gioco adventure sono anch’esse piene di informazioni, in gran parte indizi sul passato, storie, segreti, mappe del tesoro e cose simili» (Herz 1998, p. 155).",
+      "(s.m.): «Gli adventure continuano a mietere successi» (Ascione 1999, p. 62).",
+      "(s.f.): «Si tratta di una disastrosa adventure in tre parti» (Carlà 1996, p. 56)."
     ]
   },
   {
