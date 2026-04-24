@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Vocabolario del lessico videoludico</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="hero__content">
+      <p class="eyebrow">Crossare tra le parole</p>
+      <h1>Vocabolario del lessico videoludico</h1>
+      <p class="subtitle">Un glossario navigabile del lessico del videogiocatore, organizzato per lemma, varianti, etimologia, marche grammaticali, definizioni, riferimenti videoludici ed esempi d’uso.</p>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="tools" aria-label="Strumenti di ricerca">
+      <label class="searchBox">
+        <span>Cerca nel glossario</span>
+        <input id="searchInput" type="search" placeholder="Cerca lemma, variante, definizione, esempio…" autocomplete="off">
+      </label>
+      <div class="filters">
+        <button class="filter active" data-filter="all">Tutte</button>
+        <button class="filter" data-filter="genre">Solo generi (g)</button>
+      </div>
+      <div id="alphabet" class="alphabet" aria-label="Indice alfabetico"></div>
+    </section>
+
+    <section class="summary">
+      <p><strong id="count"></strong> voci visualizzate</p>
+      <button id="resetBtn" class="reset">Azzera filtri</button>
+    </section>
+
+    <section id="glossary" class="glossary" aria-live="polite"></section>
+  </main>
+
+  <footer class="footer">
+    <p>Prototipo statico in HTML, CSS e JavaScript.</p>
+  </footer>
+
+  <script src="glossario.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

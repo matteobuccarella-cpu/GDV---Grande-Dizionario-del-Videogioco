@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Libre+Baskerville:wght@400;700&display=swap');
+
+:root{
+  --bg:#f7f3ed;
+  --paper:#fffaf3;
+  --ink:#211d1a;
+  --muted:#70665d;
+  --line:#ded2c4;
+  --accent:#7b1f2a;
+  --accent-soft:#ead9d8;
+  --gold:#a87932;
+  --shadow:0 18px 45px rgba(45,32,20,.10);
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{
+  margin:0;
+  background:linear-gradient(180deg,#efe5d9 0%,var(--bg) 360px);
+  color:var(--ink);
+  font-family:Inter,system-ui,-apple-system,Segoe UI,sans-serif;
+  line-height:1.55;
+}
+.hero{
+  padding:64px 20px 42px;
+  border-bottom:1px solid var(--line);
+  background:
+    radial-gradient(circle at 20% 0%,rgba(123,31,42,.16),transparent 35%),
+    radial-gradient(circle at 90% 20%,rgba(168,121,50,.16),transparent 30%);
+}
+.hero__content{max-width:1100px;margin:auto}
+.eyebrow{text-transform:uppercase;letter-spacing:.18em;color:var(--accent);font-weight:800;font-size:.78rem;margin:0 0 14px}
+h1{font-family:'Libre Baskerville',serif;font-size:clamp(2.3rem,5vw,5rem);line-height:1;margin:0 0 20px;max-width:900px}
+.subtitle{max-width:780px;color:var(--muted);font-size:1.08rem;margin:0}
+.container{max-width:1160px;margin:0 auto;padding:28px 20px 70px}
+.tools{
+  position:sticky;
+  top:0;
+  z-index:5;
+  background:rgba(247,243,237,.92);
+  backdrop-filter:blur(14px);
+  padding:18px 0;
+  border-bottom:1px solid rgba(222,210,196,.75);
+}
+.searchBox{display:block}
+.searchBox span{display:block;font-weight:700;margin-bottom:8px}
+input[type=search]{
+  width:100%;
+  border:1px solid var(--line);
+  background:var(--paper);
+  border-radius:18px;
+  padding:15px 18px;
+  font:inherit;
+  outline:none;
+  box-shadow:0 8px 24px rgba(45,32,20,.06);
+}
+input[type=search]:focus{border-color:var(--accent);box-shadow:0 0 0 4px var(--accent-soft)}
+.filters,.alphabet{display:flex;gap:8px;flex-wrap:wrap;margin-top:14px}
+.filter,.letter,.reset{
+  border:1px solid var(--line);
+  background:var(--paper);
+  color:var(--ink);
+  border-radius:999px;
+  padding:8px 12px;
+  font-weight:700;
+  cursor:pointer;
+}
+.filter.active,.letter.active{background:var(--accent);border-color:var(--accent);color:white}
+.summary{display:flex;justify-content:space-between;align-items:center;gap:14px;margin:22px 0;color:var(--muted)}
+.summary p{margin:0}.reset{color:var(--accent)}
+.glossary{display:grid;gap:18px}
+.entry{
+  background:rgba(255,250,243,.9);
+  border:1px solid var(--line);
+  border-radius:26px;
+  padding:24px;
+  box-shadow:var(--shadow);
+}
+.entry__top{
+  display:flex;
+  flex-wrap:wrap;
+  align-items:baseline;
+  gap:8px 10px;
+  border-bottom:1px solid var(--line);
+  padding-bottom:14px;
+  margin-bottom:16px;
+}
+.lemma{font-family:'Libre Baskerville',serif;font-size:1.65rem;font-weight:700;color:var(--accent)}
+.variants{font-style:italic;color:var(--muted)}
+.genre{font-weight:800;background:var(--accent-soft);color:var(--accent);border-radius:999px;padding:3px 8px;font-size:.82rem}
+.etimo{color:var(--muted)}
+.meta{font-weight:800;color:var(--gold);margin:0 0 8px}
+.definition{font-size:1.05rem;margin:0 0 14px}
+.reference{
+  margin:0 0 16px;
+  padding:12px 14px;
+  border-left:4px solid var(--gold);
+  background:#f5ebdc;
+  border-radius:12px;
+  color:#4a3720;
+}
+.examples{display:grid;gap:10px;margin-top:12px}
+.example{margin:0;padding:13px 14px;background:#fff;border:1px solid #eadfd2;border-radius:16px;color:#3a322c}
+.example strong{color:var(--accent)}
+.empty{padding:40px;text-align:center;color:var(--muted);background:var(--paper);border:1px dashed var(--line);border-radius:24px}
+.footer{text-align:center;color:var(--muted);padding:28px;border-top:1px solid var(--line)}
+@media (max-width:700px){
+  .hero{padding-top:42px}
+  .entry{padding:18px}
+  .summary{align-items:flex-start;flex-direction:column}
+  .tools{position:static}
+  .lemma{font-size:1.35rem}
+}
+
+.source-link {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  font-weight: 650;
+}
+
+.source-link:hover {
+  opacity: .75;
+}
