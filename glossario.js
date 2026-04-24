@@ -53,7 +53,7 @@ const GLOSSARIO = [
       "(2v2): «Call of Duty: Modern Warfare presenta la nuova modalità 2v2 Gunfight» (Sirio 2019)."
     ]
   },
-    {
+  {
     "lemma": "Action",
     "varianti": [],
     "genere": true,
@@ -158,7 +158,7 @@ const GLOSSARIO = [
     "varianti": [],
     "genere": false,
     "etimo": "prest. ingl. ‘aggressivo, ostile’",
-    "marca": "– 1. s.m. e s.f.",
+    "marca": "1. s.m. e s.f.",
     "definizione": "‘grado di attenzione delle presenze ostili verso il giocatore nel momento in cui entra nel loro campo visivo o ne innesca l’azione con una serie di attacchi e altri stratagemmi’; 2. agg. ‘(nei videogiochi di carte collezionabili) tipologia di mazzo che mira a fare molti danni sin dai primi turni di gioco’; anche loc. avv. vado di aggro, ‘optare per uno stile di gioco caratteristico dei mazzi di carte aggro’.",
     "riferimento": "",
     "esempi": [
@@ -192,7 +192,7 @@ const GLOSSARIO = [
     "varianti": [],
     "genere": false,
     "etimo": "prest. ingl. ‘(gioco) cabinato’",
-    "marca": "- 1. agg. e s.m.",
+    "marca": "1. agg. e s.m.",
     "definizione": "‘(detto di) gioco tipico dei cabinati a gettoni’, (estens.) ‘sala giochi’; 2. (g) agg. e s.m. ‘(detto di) videogioco in cui l’esperienza è caratterizzata da immediatezza e dinamismo piuttosto che tattica e riflessione’.",
     "riferimento": "→ Ridge Racer 6 (Namco 2006).",
     "esempi": [
@@ -290,7 +290,7 @@ const GLOSSARIO = [
     "varianti": [],
     "genere": false,
     "etimo": "dall’ingl. (to) blast ‘distruggere, far esplodere, sfondare’",
-    "marca": "- 1. v. tr.",
+    "marca": "1. v. tr.",
     "definizione": "‘distruggere, annientare un soggetto contro cui si combatte’; 2. v. tr. ‘criticare aspramente qualcuno o qualcosa con l’obiettivo di schernire, deridere e umiliare’.",
     "riferimento": "",
     "esempi": [
@@ -367,7 +367,7 @@ const GLOSSARIO = [
     "varianti": [],
     "genere": false,
     "etimo": "abbr. di combination, ‘combinazione’",
-    "marca": "- 1. avv. in combo",
+    "marca": "1. avv. in combo",
     "definizione": "‘in combinazione, insieme a qualcos’altro o qualcun altro; anche s.f., azione combinata di più elementi’ 2. s.f. ‘serie di azioni, mosse o tasti combinati tra loro in una specifica sequenza, solitamente eseguite ad alta velocità’.",
     "riferimento": "",
     "esempi": [
@@ -424,7 +424,7 @@ const GLOSSARIO = [
     "varianti": [],
     "genere": false,
     "etimo": "prest. ingl. ‘uovo di Pasqua’",
-    "marca": "- 1. s.m.",
+    "marca": "1. s.m.",
     "definizione": "‘contenuti di gioco nascosti, spesso di natura bizzarra.’; 2. s.m. ‘attività secondaria da innescare, ed eventualmente completare, in modo tale da svelare alcuni contenuti del gioco’.",
     "riferimento": "",
     "esempi": [
@@ -444,7 +444,7 @@ const GLOSSARIO = [
     ]
   },
   {
-    "lemma": "eSport",
+      "lemma": "eSport",
     "varianti": [
       "e-sport",
       "esport",
@@ -515,7 +515,7 @@ const GLOSSARIO = [
     "varianti": [],
     "genere": false,
     "etimo": "dall’ ingl. game ‘gioco’ e (to) play ‘giocare’",
-    "marca": "- 1. s.m.",
+    "marca": "1. s.m.",
     "definizione": "‘l’insieme delle meccaniche di gioco attraverso cui progredire all’interno dello stesso’; 2. s.m. ‘l’esperienza di gioco, l’insieme delle stimolazioni sensoriali che il videogioco è in grado di trasmettere’.",
     "riferimento": "",
     "esempi": [
@@ -1167,7 +1167,7 @@ const GLOSSARIO = [
     "varianti": [],
     "genere": false,
     "etimo": "dall’ingl. (to) pull ‘tirare’",
-    "marca": "- 1. v. tr.",
+    "marca": "1. v. tr.",
     "definizione": "‘tirare verso di sé qualcuno o qualcosa durante un combattimento’; 2. v. tr. ‘ottenere un premio casuale, consistente in personaggi o risorse varie, in seguito ad una spesa della valuta di gioco’.",
     "riferimento": "",
     "esempi": [
@@ -1191,7 +1191,7 @@ const GLOSSARIO = [
     "varianti": [],
     "genere": false,
     "etimo": "dall’ingl. (to) push, ‘spingere’",
-    "marca": "- 1. v. tr.",
+    "marca": "1. v. tr.",
     "definizione": "‘spingere lontano’; 2. v. tr. e intr. ‘avanzare con forza verso gli avversari’; 3. v. tr. ‘(in specifiche partite multiplayer) scortare, senza allontanarsi, un obiettivo da un punto A a un punto B per vincere la partita’.",
     "riferimento": "",
     "esempi": [
@@ -1503,7 +1503,7 @@ const GLOSSARIO = [
     "varianti": [],
     "genere": false,
     "etimo": "dall’ing. (to) split ‘suddividere’",
-    "marca": "- 1. v. tr. (la squadra, o il team), intr. e rifl.",
+    "marca": "1. v. tr. (la squadra, o il team), intr. e rifl.",
     "definizione": "‘dividere i membri di una squadra’, ‘dividersi’; 2. v. tr. (il danno) ‘partizionare con metodo e intelligenza il danno da infliggere ai vari nemici durante una specifica azione di gioco’; 3. v. tr. (lo schermo) ‘giocare con il televisore, o il monitor, diviso in più parti in base al numero dei giocatori che partecipano’.",
     "riferimento": "",
     "esempi": [
@@ -1597,7 +1597,7 @@ const GLOSSARIO = [
     "varianti": [],
     "genere": false,
     "etimo": "dall’ing. trigger ‘grilletto’",
-    "marca": "- 1. v. tr.",
+    "marca": "1. v. tr.",
     "definizione": "‘innescare un’azione di gioco’; 2. v. tr. ‘attivare un congegno’ 3.  v. tr. (rar. rifl.) ‘Portare un personaggio, ostile o alleato che sia, da uno stato iniziale di quiete ad uno reattivo’; 4. v. tr. ‘attivare (in senso psicologico), far arrabbiare, pungere nel vivo, provocare, uscire di testa’; per estens., v. rifl.  ‘offendersi’.",
     "riferimento": "",
     "esempi": [
@@ -1640,7 +1640,7 @@ const GLOSSARIO = [
     "varianti": [],
     "genere": false,
     "etimo": "dall’ingl. (to) try ‘provare’ e hard ‘con molta forza o energia’, o to try hard ‘fare uno sforzo evidente per eccellere’",
-    "marca": "- 1. v. intr.",
+    "marca": "1. v. intr.",
     "definizione": "‘(nei videogiochi multiplayer) giocare dando il massimo impegno con l’obiettivo di vincere una partita a tutti i costi’; 2. v. intr. ‘(nei giochi singleplayer) dare fondo a tutte le proprie energie per superare una sfida particolarmente impegnativa’.",
     "riferimento": "",
     "esempi": [
