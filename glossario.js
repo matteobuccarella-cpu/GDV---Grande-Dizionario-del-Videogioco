@@ -55,7 +55,9 @@ const GLOSSARIO = [
   },
   {
     "lemma": "Adventure",
-    "varianti": [],
+    "varianti": [
+      "adventure game",
+    ],
     "genere": true,
     "etimo": "dalla loc. ingl. adventure (game), ‘(gioco di) avventura’",
     "marca": "agg. e s.m. (rar. s.f.)",
