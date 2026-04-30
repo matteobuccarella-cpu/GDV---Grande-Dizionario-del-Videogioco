@@ -775,14 +775,14 @@ const GLOSSARIO = [
         "link": "https://forum.waraccademy.com/index.php?threads/segnalazione-youssef_7_ita.29213/"
       },
       {
-        "testo": "(loottare): «Poi magari mi sbaglio eh, solo che il "lavoro necessario" a loottare non è mai appagante almeno per me» (utente "techsaskia" 2019).",
+        "testo": "(loottare): «Poi magari mi sbaglio eh, solo che il \"lavoro necessario\" a loottare non è mai appagante almeno per me» (utente "techsaskia" 2019).",
         "link": "https://forum.tomshw.it/threads/assassins-creed-odyssey.718788/page-66"
       }
     ],
     "raw": [
       "Lootare [dall’ing. loot ‘bottino’] v. tr. ‘prendere il loot, saccheggiare casse o personaggi per ottenere equipaggiamento e risorse’.",
       "(v. tr.): «Il giocatore mi ha ucciso sfruttando una dinamica [...] al ritorno mi ha lootato il cadevere svuotandomi il conto. [...] Non ho la clip di quando muoio ma ho la clip di quando torna a lootare.» (utente “7ciccio” 2022).",
-      "(loottare): «Poi magari mi sbaglio eh, solo che il "lavoro necessario" a loottare non è mai appagante almeno per me» (utente "techsaskia" 2019)."
+      "(loottare): «Poi magari mi sbaglio eh, solo che il \"lavoro necessario\" a loottare non è mai appagante almeno per me» (utente "techsaskia" 2019)."
     ]
   },
   {
