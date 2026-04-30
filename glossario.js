@@ -785,8 +785,6 @@ const GLOSSARIO = [
       "(loottare): «Poi magari mi sbaglio eh, solo che il "lavoro necessario" a loottare non è mai appagante almeno per me» (utente "techsaskia" 2019)."
     ]
   },
-    ]
-  },
   {
     "lemma": "MMO",
     "varianti": [],
