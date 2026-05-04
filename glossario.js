@@ -97,7 +97,8 @@ const GLOSSARIO = [
         "link": "https://archivio.corriere.it/Archivio/interface/view_preview.shtml#!/NTovZXMvaXQvcmNzZGF0aS9AMTQwMDkz"
       },
       {
-        "testo": "(agg.): «Le mura virtuali di un gioco adventure sono anch’esse piene di informazioni, in gran parte indizi sul passato, storie, segreti, mappe del tesoro e cose simili» (Herz 1998, p. 155)."
+        "testo": "(agg.): «i due titoli hanno forti influenze adventure e forti influenze puzzle» (utente \"Overmann\" 2012)."
+        "link": "https://www.adventuresplanet.it/forum/viewtopic.php?t=12051&start=180"      
       },
       {
         "testo": "(s.m.): «Gli adventure continuano a mietere successi» (Ascione 1999, p. 62)."
@@ -110,7 +111,7 @@ const GLOSSARIO = [
       "Adventure (g) [dalla loc. ingl. adventure (game), ‘(gioco di) avventura’] agg. e s.m. (rar. s.f.) ‘(detto di) videogioco caratterizzato da una marcata componente esplorativa, che rappresenta il motivo principale dell’esperienza di gioco, affiancata spesso da una voce narrante che guida il giocatore nelle ambientazioni in cui si sviluppa il gioco’.",
       "→ The Legend of Zelda, Breath of the Wild (Nintendo, 2017).",
       "(adventure game): «L’interattività del videogame è assicurata da due modi di gioco: acrobatico e frenetico (modello sala giochi) e più impegnativo e strategico (“adventure game”).» (Arriva il videogioco che parla cinque lingue 1993, p.13) .",
-      "(agg.): «Le mura virtuali di un gioco adventure sono anch’esse piene di informazioni, in gran parte indizi sul passato, storie, segreti, mappe del tesoro e cose simili» (Herz 1998, p. 155).",
+      "(agg.): «i due titoli hanno forti influenze adventure e forti influenze puzzle» (utente \"Overmann\" 2012).",
       "(s.m.): «Gli adventure continuano a mietere successi» (Ascione 1999, p. 62).",
       "(s.f.): «Si tratta di una disastrosa adventure in tre parti» (Carlà 1996, p. 56)."
     ]
