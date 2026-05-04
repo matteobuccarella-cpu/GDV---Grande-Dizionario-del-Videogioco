@@ -97,7 +97,7 @@ const GLOSSARIO = [
         "link": "https://archivio.corriere.it/Archivio/interface/view_preview.shtml#!/NTovZXMvaXQvcmNzZGF0aS9AMTQwMDkz"
       },
       {
-        "testo": "(agg.): «i due titoli hanno forti influenze adventure e forti influenze puzzle» (utente \"Overmann\" 2012)."
+        "testo": "(agg.): «i due titoli hanno forti influenze adventure e forti influenze puzzle» (utente \"Overmann\" 2012).",
         "link": "https://www.adventuresplanet.it/forum/viewtopic.php?t=12051&start=180"      
       },
       {
