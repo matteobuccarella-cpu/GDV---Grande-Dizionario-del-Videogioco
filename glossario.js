@@ -101,10 +101,12 @@ const GLOSSARIO = [
         "link": "https://www.adventuresplanet.it/forum/viewtopic.php?t=12051&start=180"      
       },
       {
-        "testo": "(s.m.): «Gli adventure continuano a mietere successi» (Ascione 1999, p. 62)."
+        "testo": "(s.m.): «Di tutte le diverse tipologie di giochi, mi piace particolarmente giocare gli adventure, o i giochi narrativi. [...] L'elemento che dà vita ad un adventure per me è la storia intorno al quale è tessuto.» (Gilbert s.d.).",
+        "link": "https://www.lucasdelirium.it/avventure.php"        
       },
       {
-        "testo": "(s.f.): «Si tratta di una disastrosa adventure in tre parti» (Carlà 1996, p. 56)."
+        "testo": "(s.f.): «Non solo, ma secondo me il paragone tra TOMI e BTTF non è minimamente proponibile per due motivi precisi: [...] BTTF non è una adventure, o forse si, o forse a tratti o forse è solo una operazione di marketing [...]» (utente \"LargoLagrande\" 2011).",
+        "link": "https://www.adventuresplanet.it/forum/viewtopic.php?t=10431&start=100"
       }
     ],
     "raw": [
@@ -112,8 +114,8 @@ const GLOSSARIO = [
       "→ The Legend of Zelda, Breath of the Wild (Nintendo, 2017).",
       "(adventure game): «L’interattività del videogame è assicurata da due modi di gioco: acrobatico e frenetico (modello sala giochi) e più impegnativo e strategico (“adventure game”).» (Arriva il videogioco che parla cinque lingue 1993, p.13) .",
       "(agg.): «i due titoli hanno forti influenze adventure e forti influenze puzzle» (utente \"Overmann\" 2012).",
-      "(s.m.): «Gli adventure continuano a mietere successi» (Ascione 1999, p. 62).",
-      "(s.f.): «Si tratta di una disastrosa adventure in tre parti» (Carlà 1996, p. 56)."
+      "(s.m.): «Di tutte le diverse tipologie di giochi, mi piace particolarmente giocare gli adventure, o i giochi narrativi. [...] L'elemento che dà vita ad un adventure per me è la storia intorno al quale è tessuto.» (Gilbert s.d.).",
+      "(s.f.): «Non solo, ma secondo me il paragone tra TOMI e BTTF non è minimamente proponibile per due motivi precisi: [...] BTTF non è una adventure, o forse si, o forse a tratti o forse è solo una operazione di marketing [...]» (utente \"LargoLagrande\" 2011)."
     ]
   },
   {
