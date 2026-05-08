@@ -1388,6 +1388,35 @@ const GLOSSARIO = [
     ]
   },
   {
+    "lemma": "Shoppone",
+    "varianti": [],
+    "genere": false,
+    "etimo": "da shoppare",
+    "marca": "agg. e s.m. (f. -a)",
+    "definizione": "‘(detto di) giocatore che, con una certa frequenza, mira a ottenere oggetti cosmetici o vantaggi di gioco per mezzo di una spesa di valuta reale’.",
+    "riferimento": "",
+    "esempi": [
+      {
+        "testo": "(agg.): «Comunque, complimenti sullo scudo, divertiti a spaccare tante persone! (e soprattutto falle rosicare, che poi si sa, quando vincono sono fortissimi, quando perdono sei uno shoppone..)» (utente “ilKoala” 2014).",
+        "link": "https://board.it.metin2.gameforge.com/index.php?user-post-list/93145-ilkoala/&pageNo=2"
+      },
+      {
+        "testo": "(s.m.): «ci sara sicuramente lo shoppone di turno che fara tabularasa in 20 giorni» (utente “Soliranus89” 2022).",
+        "link": "https://board.it.ogame.gameforge.com/index.php?thread/500823-discussione-ufficiale-sul-nuovo-universo-lacerta/"
+      },
+      {
+        "testo": "(s.f.): «E brava la shoppona, almeno sono l'unico che non shoppera MAI su questo gioco, GG» (utente “Amutens” 2016).",
+        "link": "https://forum.pokemonmillennium.net/topic/137195-ufficiale-clash-royale/page/31/"
+      }
+    ],
+    "raw": [
+      "Shoppone [da shoppare] agg. e s.m. (f. -a) ‘(detto di) giocatore che, con una certa frequenza, mira a ottenere oggetti cosmetici o vantaggi di gioco per mezzo di una spesa di valuta reale’.",
+      "(agg.): «Comunque, complimenti sullo scudo, divertiti a spaccare tante persone! (e soprattutto falle rosicare, che poi si sa, quando vincono sono fortissimi, quando perdono sei uno shoppone..)» (utente “ilKoala” 2014).",
+      "(s.m.): «ci sara sicuramente lo shoppone di turno che fara tabularasa in 20 giorni» (utente “Soliranus89” 2022).",
+      "(s.f.): «E brava la shoppona, almeno sono l'unico che non shoppera MAI su questo gioco, GG» (utente “Amutens” 2016)."
+    ]
+  },
+  {
     "lemma": "Simulatore",
     "varianti": [],
     "genere": true,
