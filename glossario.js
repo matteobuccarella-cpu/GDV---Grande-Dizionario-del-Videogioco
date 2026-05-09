@@ -1161,7 +1161,7 @@ const GLOSSARIO = [
     "varianti": [],
     "genere": false,
     "etimo": "Da platino",
-    "marca": "- 1. v. tr.",
+    "marca": "v. tr.",
     "definizione": "‘ottenere il “trofeo di platino”, il più alto grado di riconoscimento in merito a uno specifico videogioco, completare al 100%; (rar., per estens.) fig., completare al 100% una qualsiasi attività’.",
     "riferimento": "",
     "esempi": [
@@ -1175,7 +1175,7 @@ const GLOSSARIO = [
       }
     ],
     "raw": [
-      "Platinare [Da platino] - 1. v. tr. ‘ottenere il “trofeo di platino”, il più alto grado di riconoscimento in merito a uno specifico videogioco, completare al 100%; (rar., per estens.) fig., completare al 100% una qualsiasi attività’.",
+      "Platinare [Da platino] v. tr. ‘ottenere il “trofeo di platino”, il più alto grado di riconoscimento in merito a uno specifico videogioco, completare al 100%; (rar., per estens.) fig., completare al 100% una qualsiasi attività’.",
       "(v. tr.): «Per platinare questo gioco basterà una singola giocata» (utente “The-Joker-MCN” 2009).",
       "(fig.): «Ha platinato il calcio con la mano di D10S» (utente “archivi_ayanami” 2022)."
     ]
@@ -1433,7 +1433,7 @@ const GLOSSARIO = [
       }
     ],
     "raw": [
-      "Shoppare [dall’ingl. (to) shop ‘acquistare’] - v. tr. e intr. ‘acquistare qualcosa all'interno del gioco per mezzo di una spesa di valuta reale’.",
+      "Shoppare [dall’ingl. (to) shop ‘acquistare’] v. tr. ‘acquistare qualcosa all'interno del gioco per mezzo di una spesa di valuta reale’.",
       "(v. tr.): «Non ti sto dicendo di non shoppare il Battle Pass di Call of Duty Warzone, ma di essere consapevole di che fine fanno quei soldi.» (Call of Salvini - Cosa c'entrano gli Epstein Files coi videogiochi? La risposta potrebbe essere \"Lega Nord\", 2026)."
     ]
   },
