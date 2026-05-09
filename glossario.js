@@ -746,6 +746,30 @@ const GLOSSARIO = [
     ]
   },
   {
+    "lemma": "Intare",
+    "varianti": [],
+    "genere": false,
+    "etimo": "Dall'ingl. intentional feeding, o inting ‘nutrire intenzionalmente’",
+    "marca": "v. intr.",
+    "definizione": "‘(nei videogiochi multiplayer) l'atto di farsi uccidere intenzionalmente e ripetutamente per favorire gli avversari; per estens., fig. usato anche per descrivere delle azioni di gioco così pessime da sembrare degli errori intenzionali’.",
+    "riferimento": "",
+    "esempi": [
+      {
+        "testo": "(v. intr.): «Pagato per intare con Ekko mid...» (utente “Kyrenis” 2026).",
+        "link": "https://www.youtube.com/watch?v=zH96k1VfdkA"
+      },
+      {
+        "testo": "(fig.): «[ITA] IL CORRETTO MODO DI GIOCARE AKSHAN E NON INTARE - League Of Legends» (utente “Ian91” 2021).",
+        "link": "https://www.youtube.com/watch?v=2uZilnJtRj8"
+      }
+    ],
+    "raw": [
+      "Intare [Dall'ingl. intentional feeding, o inting ‘nutrire intenzionalmente’] v. intr. ‘(nei videogiochi multiplayer) l'atto di farsi uccidere intenzionalmente e ripetutamente per favorire gli avversari; per estens., fig. usato anche per descrivere delle azioni di gioco così pessime da sembrare degli errori intenzionali’.",
+      "(v. intr.): «Pagato per intare con Ekko mid...» (utente “Kyrenis” 2026).",
+      "(fig.): «[ITA] IL CORRETTO MODO DI GIOCARE AKSHAN E NON INTARE - League Of Legends» (utente “Ian91” 2021)."
+    ]
+  },
+  {
     "lemma": "Lamerone",
     "varianti": [],
     "genere": false,
