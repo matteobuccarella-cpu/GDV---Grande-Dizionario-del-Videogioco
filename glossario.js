@@ -424,6 +424,37 @@ const GLOSSARIO = [
     ]
   },
   {
+    "lemma": "Droppare",
+    "varianti": [],
+    "genere": false,
+    "etimo": "dall’ingl. (to) drop, ‘lasciar cadere’, ma anche ‘scendere’",
+    "marca": "1. v. tr.",
+    "definizione": "‘lasciare per terra, volontariamente o in seguito ad un atterramento, un premio o qualcosa appartenente al proprio personaggio’; 2. v. rifl. ‘scendere da una posizione sopraelevata’.",
+    "riferimento": "",
+    "esempi": [
+      {
+        "testo": "1. (v. tr.):"
+      },
+      { "testo": "(un premio): «il boss ha droppato dei guanti gialli niente male....» (utente “GianCxZ” 2016).",
+        "link": "https://forum.everyeye.it/invision/topic/672575-the-division-topic-ufficialeps4-disponibile/page/943/"
+      },
+      { "testo": "(q.sa in inventario): «appena hai la possibilità scendi giù dove c'è la grata per riprenderti le munizioni, in caso quelle droppate dai nemici non siano sufficienti.» (utente “P.O.P.” 2016).",
+        "link": "https://forum.everyeye.it/invision/topic/672575-the-division-topic-ufficialeps4-disponibile/page/943/"
+      },
+      {
+        "testo": "2. (v. rifl.): «NON DROPPARTI DA QUELLA BOTOLA» (utente “danyserra_” 2024).",
+        "link": "https://www.youtube.com/shorts/6nYvvoxcMWI"
+      }
+    ],
+    "raw": [
+      "Droppare [dall’ingl. (to) drop, ‘lasciar cadere’, ma anche ‘scendere’] - 1. v. tr. ‘lasciare per terra, volontariamente o in seguito ad un atterramento, un premio o qualcosa appartenente al proprio personaggio’; 2. v. rifl. ‘scendere da una posizione sopraelevata’.",
+      "1. (v. tr.):",
+      "(un premio): «il boss ha droppato dei guanti gialli niente male....» (utente “GianCxZ” 2016).",
+      "(q.sa in inventario): «appena hai la possibilità scendi giù dove c'è la grata per riprenderti le munizioni, in caso quelle droppate dai nemici non siano sufficienti.» (utente “P.O.P.” 2016).",
+      "2. (v. rifl.): «NON DROPPARTI DA QUELLA BOTOLA» (utente “danyserra_” 2024)."
+    ]
+  },
+  {
     "lemma": "Easter Egg",
     "varianti": [],
     "genere": false,
