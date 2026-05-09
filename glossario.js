@@ -429,7 +429,7 @@ const GLOSSARIO = [
     "genere": false,
     "etimo": "dall’ingl. (to) drop, ‘lasciar cadere’, ma anche ‘scendere’",
     "marca": "1. v. tr.",
-    "definizione": "‘lasciare per terra, volontariamente o in seguito ad un atterramento, un premio o qualcosa appartenente al proprio personaggio’; 2. v. rifl. ‘scendere da una posizione sopraelevata’.",
+    "definizione": "‘lasciare per terra, volontariamente o in seguito ad un atterramento, un premio o degli oggetti presenti in inventario’; 2. v. rifl. ‘scendere da una posizione sopraelevata’.",
     "riferimento": "",
     "esempi": [
       {
@@ -447,7 +447,7 @@ const GLOSSARIO = [
       }
     ],
     "raw": [
-      "Droppare [dall’ingl. (to) drop, ‘lasciar cadere’, ma anche ‘scendere’] - 1. v. tr. ‘lasciare per terra, volontariamente o in seguito ad un atterramento, un premio o qualcosa appartenente al proprio personaggio’; 2. v. rifl. ‘scendere da una posizione sopraelevata’.",
+      "Droppare [dall’ingl. (to) drop, ‘lasciar cadere’, ma anche ‘scendere’] - 1. v. tr. ‘lasciare per terra, volontariamente o in seguito ad un atterramento, un premio o degli oggetti presenti in inventario’; 2. v. rifl. ‘scendere da una posizione sopraelevata’.",
       "1. (v. tr.):",
       "(un premio): «il boss ha droppato dei guanti gialli niente male....» (utente “GianCxZ” 2016).",
       "(q.sa in inventario): «appena hai la possibilità scendi giù dove c'è la grata per riprenderti le munizioni, in caso quelle droppate dai nemici non siano sufficienti.» (utente “P.O.P.” 2016).",
