@@ -1388,6 +1388,25 @@ const GLOSSARIO = [
     ]
   },
   {
+    "lemma": "Shoppare",
+    "varianti": [],
+    "genere": false,
+    "etimo": "dall’ingl. (to) shop ‘acquistare’",
+    "marca": "v. tr.",
+    "definizione": "‘acquistare qualcosa all'interno del gioco per mezzo di una spesa di valuta reale’.",
+    "riferimento": "",
+    "esempi": [
+      {
+        "testo": "(v. tr.): «Non ti sto dicendo di non shoppare il Battle Pass di Call of Duty Warzone, ma di essere consapevole di che fine fanno quei soldi.» (Call of Salvini - Cosa c'entrano gli Epstein Files coi videogiochi? La risposta potrebbe essere \"Lega Nord\", 2026).",
+        "link": "https://gameromancer.substack.com/p/call-of-salvini"
+      }
+    ],
+    "raw": [
+      "Shoppare [dall’ingl. (to) shop ‘acquistare’] - v. tr. e intr. ‘acquistare qualcosa all'interno del gioco per mezzo di una spesa di valuta reale’.",
+      "(v. tr.): «Non ti sto dicendo di non shoppare il Battle Pass di Call of Duty Warzone, ma di essere consapevole di che fine fanno quei soldi.» (Call of Salvini - Cosa c'entrano gli Epstein Files coi videogiochi? La risposta potrebbe essere \"Lega Nord\", 2026)."
+    ]
+  },
+  {
     "lemma": "Shoppone",
     "varianti": [],
     "genere": false,
