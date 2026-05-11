@@ -802,7 +802,7 @@ const GLOSSARIO = [
     "lemma": "Loot",
     "varianti": [],
     "genere": false,
-    "etimo": "prest. ingl. loot ‘bottino’",
+    "etimo": "prest. ingl. ‘bottino’",
     "marca": "s.m.",
     "definizione": "‘insieme di oggetti, risorse, equipaggiamento o ricompense ottenute dal giocatore tramite esplorazione, eliminazione di nemici o apertura di contenitori all’interno del gioco’.",
     "riferimento": "",
