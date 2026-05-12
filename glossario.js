@@ -594,6 +594,30 @@ const GLOSSARIO = [
     ]
   },
   {
+    "lemma": "Gankare",
+    "varianti": [],
+    "genere": false,
+    "etimo": "dall’ingl. gank, prob. contrazione di gank kill ‘uccisione di gruppo’",
+    "marca": "v. tr. e intr.",
+    "definizione": "‘(nei videogiochi multiplayer online, spec. MOBA) effettuare un gank, attaccare improvvisamente un avversario isolato sfruttando superiorità numerica, effetto sorpresa o posizione favorevole’.",
+    "riferimento": "",
+    "esempi": [
+      {
+        "testo": "(v. tr.): «Per passare da una regione all'altra ci sono dei caricamenti, anche se sono limitrofe. Di base ci sono da 1 a massimo 4 portali per passare nella zona adiacente e come puoi immaginare questa tipologia favorisce i coni di bottiglia e di conseguenza gli spot per gankare i giocatori.» (utente \"Eradien\" 2021).",
+        "link": "https://www.inforge.net/forum/threads/capiamo-che-gioco-%C3%A8-albion-online.603870/"
+      },
+      {
+        "testo": "(v. intr.): «Il red (o rosso): lo si prende quando si uccide l’Anziano degli Uomini Lucertola. Questo buff è uno dei più importanti per poter gankare perché rallenta e infligge danni puri nel tempo (a seconda del livello del campione) quando si infliggono attacchi base.» (utente \"DeltaQuarti\" 2014).",
+        "link": "https://30sectolag-leagueoflegendsitalia.forumfree.it/?t=68608214"
+      }
+    ],
+    "raw": [
+      "Gankare [dall’ingl. gank, prob. contrazione di gank kill ‘uccisione di gruppo’] v. tr. e intr. ‘(nei videogiochi multiplayer online, spec. MOBA) effettuare un gank, attaccare improvvisamente un avversario isolato sfruttando superiorità numerica, effetto sorpresa o posizione favorevole’.",
+      "(v. tr.): «Per passare da una regione all'altra ci sono dei caricamenti, anche se sono limitrofe. Di base ci sono da 1 a massimo 4 portali per passare nella zona adiacente e come puoi immaginare questa tipologia favorisce i coni di bottiglia e di conseguenza gli spot per gankare i giocatori.» (utente \"Eradien\" 2021).",
+      "(v. intr.): «Il red (o rosso): lo si prende quando si uccide l’Anziano degli Uomini Lucertola. Questo buff è uno dei più importanti per poter gankare perché rallenta e infligge danni puri nel tempo (a seconda del livello del campione) quando si infliggono attacchi base.» (utente \"DeltaQuarti\" 2014)."
+    ]
+  },
+  {
     "lemma": "GDR",
     "varianti": [
       "GdR",
