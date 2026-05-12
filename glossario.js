@@ -570,6 +570,30 @@ const GLOSSARIO = [
     ]
   },
   {
+    "lemma": "Gank",
+    "varianti": [],
+    "genere": false,
+    "etimo": "prest. ingl., prob. contrazione di gank kill ‘uccisione di gruppo’",
+    "marca": "s.m. (rar., pl. -s)",
+    "definizione": "‘(nei videogiochi multiplayer online, spec. MOBA) imboscata strategica, attacco improvviso effettuato da uno o più giocatori ai danni di un avversario isolato con l’obiettivo di eliminarlo rapidamente sfruttando la superiorità numerica, l'effetto sorpresa o la posizione favorevole’.",
+    "riferimento": "",
+    "esempi": [
+      {
+        "testo": "(s.m.): «E se le cose vanno male? [...] capitano le volte in cui non si riesce a partire, vuoi perché invadono, vuoi perché i gank girano storti, vuoi per altri motivi, con Amumu i gank è difficile che girino storti» (utente “thprk” 2014).",
+        "link": "https://30sectolag-leagueoflegendsitalia.forumfree.it/?t=69152269"
+      },
+      {
+        "testo": "(pl. -s): «Pazienta anche quando ti impediscono di forzare Ganks.» (utente “OTPGnar” 2015).",
+        "link": "https://www.inforge.net/forum/threads/guida-generale-how-to-jungle.259632/"
+      }
+    ],
+    "raw": [
+      "Gank [prest. ingl., prob. contrazione di gank kill ‘uccisione di gruppo’] s.m. (rar., pl. -s) ‘(nei videogiochi multiplayer online, spec. MOBA) imboscata strategica, attacco improvviso effettuato da uno o più giocatori ai danni di un avversario isolato con l’obiettivo di eliminarlo rapidamente sfruttando la superiorità numerica, l'effetto sorpresa o la posizione favorevole’.",
+      "(s.m.): «E se le cose vanno male? [...] capitano le volte in cui non si riesce a partire, vuoi perché invadono, vuoi perché i gank girano storti, vuoi per altri motivi, con Amumu i gank è difficile che girino storti» (utente “thprk” 2014).",
+      "(pl. -s): «Pazienta anche quando ti impediscono di forzare Ganks.» (utente “OTPGnar” 2015)."
+    ]
+  },
+  {
     "lemma": "GDR",
     "varianti": [
       "GdR",
